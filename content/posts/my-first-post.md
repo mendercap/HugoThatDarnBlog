@@ -1,6 +1,7 @@
 ---
 title: "My First Post"
 date: 2018-09-15T09:40:06+10:00
+author: "Zi Lun Wong"
 draft: false
 ---
 
